@@ -13,7 +13,7 @@
         hey there
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
-</div>
+    </div>
 
 ### :man_technologist: About Me :
 I am a Full Stack Blockchain Developer from Colombia.
@@ -34,6 +34,7 @@ I am a Full Stack Blockchain Developer from Colombia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
+
 ---
 
 ### :fire: My Stats :
