@@ -9,5 +9,26 @@
         </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+    <h1>
+        hey there
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>
 </div>
+---
 
+### :man_technologist: About Me :
+I am a Full Stack Blockchain Developer from Colombia.
+- :telescope: I’m working as a Frontend developer on Developer DAO.
+
+- :seedling: Exploring new aplicartions for NFTs.
+
+- :zap: In my free time I like to play football and 3D print cool stuff.
+
+- :mailbox:How to reach me: felipe.pedreros94@gmail.com
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  
+</div>
