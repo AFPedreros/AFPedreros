@@ -41,4 +41,7 @@ I am a Full Stack Blockchain Developer from Colombia.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=afpedreros&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afpedreros&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+### :writing_hand: Blog Posts :
+https://mirror.xyz/0xA72dc22488c456Fff174131Bd6c5840b33C1EDcc/
