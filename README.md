@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
     <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
     <div id="badges">
         <a href="https://www.linkedin.com/in/afelipe-pedreros/">
