@@ -15,8 +15,6 @@
     </h1>
 </div>
 
----
-
 ### :man_technologist: About Me :
 I am a Full Stack Blockchain Developer from Colombia.
 - :telescope: I’m working as a Frontend developer on Developer DAO.
