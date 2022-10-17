@@ -36,10 +36,10 @@ I am a Full Stack Blockchain Developer from Colombia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 ---
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AFPedreros&theme=dark&background=000000)](https://git.io/streak-stats)
 <div id="stats" align="center">
     ### :fire: My Stats :
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AFPedreros&theme=dark&background=000000)](https://git.io/streak-stats)
+    
 
 
 
