@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Blockchain Developer from Colombia.
-- :telescope: I’m working as a Frontend developer on Developer DAO.
+- :telescope: I’m helping as a Frontend developer on Developer DAO.
 
 - :seedling: Exploring new aplicartions for NFTs.
 
