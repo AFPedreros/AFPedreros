@@ -1,6 +1,4 @@
 <div align="center">
-    <a href="https://app.daily.dev/Felipe"><img src="https://api.daily.dev/devcards/4e9676c9db2c4c109f19a43fbffd9492.png?r=bdq" width="400" alt="FELIPE PEDREROS's Dev               Card"/>
-    </a>
     <div id="badges">
         <a href="https://www.linkedin.com/in/afelipe-pedreros/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
