@@ -36,8 +36,3 @@ I am a Full Stack Blockchain Developer from Colombia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### :writing_hand: Blog Posts :
-https://mirror.xyz/0xA72dc22488c456Fff174131Bd6c5840b33C1EDcc/
