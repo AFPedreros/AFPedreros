@@ -22,7 +22,7 @@ I am a Full Stack Blockchain Developer from Colombia.
 
 - :zap: In my free time I like to play football and 3D print cool stuff.
 
-- :mailbox:How to reach me: felipe.pedreros94@gmail.com
+- :mailbox: How to reach me: felipe.pedreros94@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
