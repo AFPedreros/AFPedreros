@@ -8,9 +8,9 @@ Front-end Developer, UX/UI Designer, and blockchain technology enthusiast. I lov
 ---
 Skills:
 
-- 🌐 React, Tailwind, HTML, CSS, TypeScript.
+- 🌐 React, Tailwind, HTML, CSS, TypeScript, Solidity.
 - 🎨 Figma, Blender.
-- 🧠 Solidity, Next.js.
+- 🧠 Next.js, Hardhat.
 
 ---
 Let's Connect:
