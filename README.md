@@ -1,27 +1,24 @@
-<div align="center">
-    <h1>
-       Hi! I'm Felipe. 👋
-    </h1>
-</div>
-Front-end Developer, UX/UI Designer, and blockchain technology enthusiast. I love to create, learn, and collaborate on projects that challenge and expand my skills.
+# Hi, I'm Felipe 👋
 
----
-Skills:
+Front End Developer with 4 years of experience building web products with React, Next.js, TanStack and TypeScript. I lead the front end at [Fox Ordering](https://foxordering.com), where I'm refactoring an in-house CRM to TanStack Start and shipping headless e-commerce and marketing sites.
 
-- 🌐 React, Tailwind, HTML, CSS, TypeScript, Solidity.
-- 🎨 Figma, Blender.
-- 🧠 Next.js, Hardhat.
+📍 Toledo, Spain · Open to remote or hybrid roles (Madrid area)
 
----
-Let's Connect:
+### What I work with
 
-- 📧 Email: felipe.pedreros94@gmail.com
-- 🐦 Twitter: twitter.com/AFPedreros
-- 🌐 LinkedIn: linkedin.com/in/afelipe-pedreros
-  
----
+- **Front End:** React, Next.js, TanStack Start / Router / Query / Form, Astro, Vite, Tailwind CSS
+- **Back End & Data:** Node.js, NestJS, Django, PostgreSQL, Prisma, Drizzle
+- **E-commerce & CMS:** Shopify (headless), WooCommerce (headless), WordPress, Payload
+- **Testing & Tooling:** Vitest, Cypress, Git, Vercel, Figma
+- **AI workflow:** Claude Code with custom skills
 
-<div align="center">
-    Featured Projects:
-⬇️
-</div>
+### Featured work
+
+- **[PickleFox](https://pickle-fox.vercel.app)**: platform for the pickleball community in Colombia, with courts, players, matches and tournaments. Next.js and PostgreSQL (Neon).
+- **[Ágape Medicina Estética](https://tienda.agapemedicinaestetica.com)**: freelance online store with Next.js on headless WooCommerce.
+- **[foxordering.com](https://foxordering.com)**: bilingual marketing site built with Astro.
+- **[Portfolio](https://felipe-pedreros-portfolio.vercel.app)**: built with Astro and Tailwind CSS ([source](https://github.com/AFPedreros/astro-portfolio)).
+
+### Let's connect
+
+[Portfolio](https://felipe-pedreros-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/afelipe-pedreros) · [Email](mailto:felipe.pedreros94@gmail.com)
